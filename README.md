@@ -1,7 +1,7 @@
 Hi there 👋 I'm Asad Doost ✨
 
 📚 I'm currently learning front-end development and my specialties and interests include:
-   HTML5 | CSS3 | JavaScript | Bootstrap |  React.js | React Native | Git & GitHub and more.
+   HTML5 | CSS3 | JavaScript | React.js | Git & GitHub and more.
 
 💥 I'm eager to learn new skills so I'm constantly learning, training, and improving myself to become a better developer.
 
