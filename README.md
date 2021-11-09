@@ -1,6 +1,6 @@
 Hi there 👋 I'm Asad Doost ✨
 
-📚 I'm a Frontend Developer and my specialties and interests include:
+📚 I'm a Front-end Developer and my specialties and interests include:
    HTML5 | CSS3 | JavaScript | React.js | Git & GitHub and more.
 
 💥 I'm eager to learn new skills so I'm constantly learning, training, and improving myself to become a better developer.
