@@ -25,8 +25,3 @@ Hi there 👋 I'm Asad Doost ✨
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddoost&theme=buefy&layout=compact" />
 </a>
 
-
-![Asad Doost Github Stats](https://github-readme-stats.vercel.app/api?username=asaddoost&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br /> 
-   
