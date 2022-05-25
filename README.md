@@ -2,7 +2,7 @@ Hi there 👋 I'm Asad Doost ✨
 
 📚  A Front-end Developer who is passionate about writing code, solving problems, automating stuff, and building software.
 
-💥 eagering to learn new skills so I'm constantly learning, training, and improving myself to become a better developer.
+💥 eagering to learn new skills and constantly learning, training, and improving myself to become a better developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
