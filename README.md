@@ -18,4 +18,10 @@ Hi there 👋 I'm Asad Doost ✨
   [![codepen](https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png)](https://codepen.io/asaddoost) &nbsp;&nbsp;
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://twitter.com/asad_doost) &nbsp;&nbsp;
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:asad.doost@gmail.com)
+  
+  
+  <a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?asaddoost=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?asaddoost=AVS1508&theme=buefy&layout=compact" />
+</a>
    
