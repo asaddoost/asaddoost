@@ -1,8 +1,8 @@
 Hi there 👋 I'm Asad Doost ✨
 
-📚 I'm a Front-end Developer who is passionate about writing code, solving problems, automating stuff, and building software.
+📚  A Front-end Developer who is passionate about writing code, solving problems, automating stuff, and building software.
 
-💥 I'm eager to learn new skills so I'm constantly learning, training, and improving myself to become a better developer.
+💥 eagering to learn new skills so I'm constantly learning, training, and improving myself to become a better developer.
 
 
 
@@ -12,13 +12,10 @@ Hi there 👋 I'm Asad Doost ✨
    
    
   <h2> Communication </h2>
-   <p float="left">
   
   [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/asaddoost/) &nbsp;&nbsp;
   [![Portfolio](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://asaddoost.github.io/My-portfolio/) &nbsp;&nbsp;
   [![codepen](https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png)](https://codepen.io/asaddoost) &nbsp;&nbsp;
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://twitter.com/asad_doost) &nbsp;&nbsp;
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:asad.doost@gmail.com)
- 
-</p>
    
