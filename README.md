@@ -26,8 +26,8 @@ Hi there 👋 I'm Asad Doost ✨
 
 
   <a href="https://github.com/asaddoost">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaddoost&theme=buefy&show_icons=true" />
-  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddoost&theme=buefy&layout=compact" />
+  <img height="180em" width="400px"src="https://github-readme-stats.vercel.app/api?username=asaddoost&theme=buefy&show_icons=true" />
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddoost&theme=buefy&layout=compact" />
 </a>
 
    
