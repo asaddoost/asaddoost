@@ -20,9 +20,9 @@ Hi there 👋 I'm Asad Doost ✨
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:asad.doost@gmail.com)
   
   
-  <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?asaddoost=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?asaddoost=AVS1508&theme=buefy&layout=compact" />
+  <a href="https://github.com/asaddoost">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaddoost&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddoost&theme=buefy&layout=compact" />
 </a>
 
 
